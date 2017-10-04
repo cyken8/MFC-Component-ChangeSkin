@@ -1,0 +1,22 @@
+# Microsoft Developer Studio Generated Dependency File, included by ChangeWnd.mak
+
+.\ChangeWnd.cpp : \
+	".\ChangeWnd.h"\
+	".\ChangeWndDlg.h"\
+	".\StdAfx.h"\
+	
+
+.\ChangeWnd.rc : \
+	".\res\ChangeWnd.ico"\
+	".\res\ChangeWnd.rc2"\
+	
+
+.\ChangeWndDlg.cpp : \
+	".\ChangeWnd.h"\
+	".\ChangeWndDlg.h"\
+	".\StdAfx.h"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	

@@ -1,0 +1,14 @@
+# Microsoft Developer Studio Generated Dependency File, included by WndDll.mak
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	
+
+.\WndDll.cpp : \
+	".\StdAfx.h"\
+	".\WndDll.h"\
+	
+
+.\WndDll.rc : \
+	".\res\WndDll.rc2"\
+	
